@@ -2,3 +2,17 @@
 body{
   background-color: papayawhip;
 }
+img {
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+}
+#firstimg {
+  border-radius: 10px
+  border-color: black;
+  border-width: 5px;
+  border-style: double;
+}
+h3 {
+  text-decoration: underline;
+}
