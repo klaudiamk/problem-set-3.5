@@ -2,3 +2,32 @@
 body{
   background-color: lavender;
 }
+a:link {
+  color: black;
+}
+a:hover {
+  color: blue;
+}
+img {
+  border-width: 4px;
+  border: solid;
+  border-color: black;
+}
+.height-2 {
+  height: 400px;
+}
+.width-1 {
+  width: 300px;
+}
+.width-2 {
+  width: 350px;
+}
+.width-3 {
+  width: 450px;
+}
+.img {
+  width: 500px;
+}
+.height-3 {
+  height: 450px;
+}
