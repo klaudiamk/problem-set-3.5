@@ -26,3 +26,15 @@ a:active {
 .width-2 {
   width: 350px;
 }
+h1 {
+  color: black;
+}
+div {
+  text-decoration: underline;
+}
+h1 {
+  font-style: normal;
+  font-weight: bold;
+  font: normal;
+  font-size: normal;
+}

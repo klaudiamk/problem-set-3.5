@@ -40,3 +40,13 @@ img {
 a:active {
   color: blue;
 }
+div {
+  text-decoration: underline;
+}
+h1 {
+  font-style: normal;
+  font-weight: bold;
+  font: normal;
+  font-size: normal;
+  color: black;
+}

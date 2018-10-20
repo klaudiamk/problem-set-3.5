@@ -22,3 +22,10 @@ img {
   border: solid;
   border-color: black;
 }
+h1 {
+  font-style: normal;
+  font-weight: bold;
+  font: normal;
+  font-size: normal;
+  color: black;
+}
