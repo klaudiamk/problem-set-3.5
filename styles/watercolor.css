@@ -31,3 +31,12 @@ img {
 .height-3 {
   height: 450px;
 }
+.height-4 {
+  height: 350px;
+}
+.width-4 {
+  width: 400px;
+}
+a:active {
+  color: blue;
+}

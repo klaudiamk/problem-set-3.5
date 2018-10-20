@@ -31,3 +31,6 @@ img {
 .height-2 {
   height: 400px;
 }
+a:active {
+  color: blue;
+}
