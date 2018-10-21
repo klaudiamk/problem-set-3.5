@@ -49,3 +49,14 @@ h1 {
   font-size: normal;
   color: black;
 }
+div + h3 {
+  font-style: normal;
+}
+#img {
+  height: 400px;
+  width: 300px;
+  border: solid;
+}
+a[href="./oil-paintings.html"] {
+  font-size: normal;
+}

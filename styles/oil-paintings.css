@@ -38,3 +38,9 @@ h1 {
   font: normal;
   font-size: normal;
 }
+ul li {
+  background-color: aliceblue;
+}
+#table {
+  border-width: thick;
+}

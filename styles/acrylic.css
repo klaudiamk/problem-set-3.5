@@ -40,3 +40,9 @@ h1 {
   font: normal;
   font-size: normal;
 }
+div ~ h3 {
+  font: times;
+}
+a[href*="acyrlic"] {
+  font-color: black;
+}

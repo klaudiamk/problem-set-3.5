@@ -28,3 +28,6 @@ h1 {
   font: normal;
   font-size: normal;
 }
+a[href$=".html"] {
+  font-style: normal;
+}
