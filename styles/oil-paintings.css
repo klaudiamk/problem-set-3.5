@@ -2,6 +2,45 @@
 body{
   background-color: aliceblue;
 }
-#quickfacts {
+a:link {
+  color: black;
+}
+a:hover {
+  color: blue;
+}
+img {
+  border-width: 4px;
+  border: solid;
+  border-color: black;
+  height: 400px;
+}
+a:active {
+  color: blue;
+}
+*.width-3 {
+  width: 450px;
+}
+.width-1 {
+  width: 300px;
+}
+.width-2 {
+  width: 350px;
+}
+h1 {
+  color: black;
+}
+div {
   text-decoration: underline;
+}
+h1 {
+  font-style: normal;
+  font-weight: bold;
+  font: normal;
+  font-size: normal;
+}
+ul li {
+  background-color: aliceblue;
+}
+#table {
+  border-width: thick;
 }

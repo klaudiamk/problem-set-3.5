@@ -1,0 +1,33 @@
+/*mystyle.css */
+body{
+  background-color: seashell;
+}
+img {
+  border: solid;
+  border-width: 4px;
+  border-color: black;
+  border-radius: 5px;
+}
+a:link {
+  color: black;
+}
+a:hover {
+  color: blue;
+}
+a:active {
+  color: blue;
+}
+img {
+  border-width: 4px;
+  border: solid;
+  border-color: black;
+}
+h1 {
+  font-style: normal;
+  font-weight: bold;
+  font: normal;
+  font-size: normal;
+}
+a[href$=".html"] {
+  font-style: normal;
+}

@@ -2,6 +2,53 @@
 body{
   background-color: papayawhip;
 }
+a:link {
+  color: black;
+}
+a:hover {
+  color: blue;
+}
+#firstimg {
+  border-width: 4px;
+  border: solid;
+  border-radius: 8px;
+  border-color: blue;
+}
+
+img {
+  border-width: 4px;
+  border: solid;
+  border-color: black;
+}
+.img1 {
+  height: 350px;
+  width: 500px;
+}
+.img {
+  width: 500px;
+}
+.height-1 {
+  height: 500px;
+}
+.height-2 {
+  height: 400px;
+}
+div {
+  text-decoration: underline;
+}
+h1 {
+  font-style: normal;
+  font-weight: bold;
+  font: normal;
+  font-size: normal;
+}
+div ~ h3 {
+  font: times;
+}
+a[href*="acyrlic"] {
+  font-color: black;
+}
+
 img {
   border-color: black;
   border-width: 5px;
