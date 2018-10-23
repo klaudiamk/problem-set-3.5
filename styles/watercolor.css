@@ -60,6 +60,6 @@ div + h3 {
 a[href="./oil-paintings.html"] {
   font-size: normal;
 }
-a:visted {
+a:visited {
   color: black;
 }

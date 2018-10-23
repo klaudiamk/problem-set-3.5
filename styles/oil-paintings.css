@@ -15,7 +15,7 @@ img {
   height: 400px;
 }
 a:active {
-  color: blue;
+  color: black;
 }
 *.width-3 {
   width: 450px;
@@ -44,6 +44,6 @@ ul li {
 #table {
   border-width: thick;
 }
-a:visted {
+a:visited {
   color: black;
 }
