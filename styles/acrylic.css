@@ -71,3 +71,6 @@ img {
 h3 {
   text-decoration: underline;
 }
+a:visted {
+  color: black;
+}

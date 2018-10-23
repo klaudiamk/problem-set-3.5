@@ -44,3 +44,6 @@ ul li {
 #table {
   border-width: thick;
 }
+a:visted {
+  color: black;
+}
